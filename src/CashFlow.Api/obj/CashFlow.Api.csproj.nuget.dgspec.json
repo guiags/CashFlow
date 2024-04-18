@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {}
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Api\\CashFlow.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
         "projectName": "CashFlow.Api",
-        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
+        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Api\\CashFlow.Api.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,17 +32,17 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Application\\CashFlow.Application.csproj"
               },
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               },
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj"
               }
             }
           }
@@ -90,12 +90,12 @@
         }
       }
     },
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "projectName": "CashFlow.Application",
-        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -118,14 +118,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               },
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               }
             }
           }
@@ -164,14 +164,14 @@
         }
       }
     },
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "projectName": "CashFlow.Communication",
-        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Communication\\obj\\",
+        "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -228,12 +228,12 @@
         }
       }
     },
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
@@ -292,12 +292,12 @@
         }
       }
     },
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "projectName": "CashFlow.Exception",
-        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\obj\\",
         "projectStyle": "PackageReference",
@@ -356,12 +356,12 @@
         }
       }
     },
-    "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
+    "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "projectName": "CashFlow.Infrastructure",
-        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Infrastructure\\CashFlow.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
@@ -384,8 +384,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               }
             }
           }

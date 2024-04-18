@@ -1,0 +1,12 @@
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.deps.json
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfoInputs.cache
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfo.cs
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.dll
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
+C:\Users\guilh\Documents\Projects\CashFLow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll

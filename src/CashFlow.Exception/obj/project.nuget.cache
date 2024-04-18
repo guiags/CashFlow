@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4R8T5poNy7JnJmvGAGJ+a5oEZVt5fx4g1niTv0E3rhsvVg1wpS199FZUFz3FrSUKqRyVV/3JsAO/YMnO3zq4gA==",
+  "dgSpecHash": "xbQvB6FE+nBdKsAREjbjP6rosZI0c3HU2p0I5ltk0zRt5dQvbNjgPrKQugEZ0kzOQwTd/vDAq6M5C+oNjXcEFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+  "projectFilePath": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
