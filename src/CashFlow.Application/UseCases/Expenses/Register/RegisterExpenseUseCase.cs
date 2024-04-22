@@ -1,6 +1,7 @@
 ﻿using CashFlow.Communication.Enums;
 using CashFlow.Communication.Requests;
 using CashFlow.Communication.Responses;
+using CashFlow.Exception.ExceptionBase;
 
 namespace CashFlow.Application.UseCases.Expenses.Register;
 
@@ -37,8 +38,8 @@ public class RegisterExpenseUseCase
         var result = validator.Validate(request);
         if (result.IsValid == false)
         {
-            var errorMesages = result.Errors.Select(f => f.ErrorMessage).ToList();// Select é referente a ligunagem linq
-            throw new ArgumentException();
+            var errorMessages = result.Errors.Select(f => f.ErrorMessage).ToList();// Select é referente a ligunagem linq
+            throw new ErrorOnValidationException(errorMessages);
         }
     }
 }

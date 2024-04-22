@@ -2,9 +2,13 @@
 
 public class ReponseErrorJson
 {
-    public string ErrorMessage {  get; set; } = string.Empty;// Required torna obrigatorio o preenchimento na declaração
+    public List<string> ErrorMessage {  get; set; }// Required torna obrigatorio o preenchimento na declaração
 
     public ReponseErrorJson(string errorMessage)//Construtor da classe
+    {
+        ErrorMessage = [errorMessage];
+    }
+    public ReponseErrorJson(List<string> errorMessage)
     {
         ErrorMessage = errorMessage;
     }
