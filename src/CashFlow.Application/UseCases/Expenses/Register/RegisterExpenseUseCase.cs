@@ -14,7 +14,7 @@ public class RegisterExpenseUseCase
 
     private void Validate(RequestRegisterExpenseJson request)
     {
-        var titleIsEmpty = string.IsNullOrEmpty(request.Title);
+        /*var titleIsEmpty = string.IsNullOrEmpty(request.Title);
         if (titleIsEmpty)
         {
             throw new ArgumentException("O titulo é obrigatório!");
@@ -32,6 +32,13 @@ public class RegisterExpenseUseCase
         if (paymentTypeIsValid == false)
         {
             throw new ArgumentException("O tipo de pagamento não é válido!");
+        }*/
+        var validator = new RegisterExpenseValidator();
+        var result = validator.Validate(request);
+        if (result.IsValid == false)
+        {
+            var errorMesages = result.Errors.Select(f => f.ErrorMessage).ToList();// Select é referente a ligunagem linq
+            throw new ArgumentException();
         }
     }
 }

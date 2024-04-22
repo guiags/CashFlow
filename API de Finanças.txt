@@ -7,5 +7,9 @@ DDD = Domain Drive Design(Abordagem para modelagem dos problemas do mundo real)
 SOLID = Principio de progrmação orientado a objetos
 	- Single Responsability Principle(Uma classe deve ter apenas um motivo)
 
+Nuget Package = Gerenciador de Bibliotecas
+Fluent Validation = Pacote Nuget para eralizar as validação das requisições mais fácil
+	- Botão direito na Applications Nuget Browse
 
-- 
+LINQ = Linguagem Integrada de consulta
+	- Um conjunto de recursos que estende as poderosas capacidades de consulta SQL para as linguagens C#. 
