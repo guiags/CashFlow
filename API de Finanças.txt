@@ -6,3 +6,6 @@ DDD = Domain Drive Design(Abordagem para modelagem dos problemas do mundo real)
 
 SOLID = Principio de progrmação orientado a objetos
 	- Single Responsability Principle(Uma classe deve ter apenas um motivo)
+
+
+- 
