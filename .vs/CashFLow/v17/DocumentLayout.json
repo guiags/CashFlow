@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0944756D-8F5D-40DD-8D33-F1AA311F8568}|src\\CashFlow.Application\\CashFlow.Application.csproj|c:\\users\\guilh\\documents\\projects\\cashflow\\src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0944756D-8F5D-40DD-8D33-F1AA311F8568}|src\\CashFlow.Application\\CashFlow.Application.csproj|solutionrelative:src\\cashflow.application\\usecases\\expenses\\register\\registerexpensevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\guilh\\documents\\projects\\cashflow\\src\\cashflow.exception\\exceptionbase\\resourceerrormessages.pt-br.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionbase\\resourceerrormessages.pt-br.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\guilh\\documents\\projects\\cashflow\\src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "AbsoluteMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
       "RelativeMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\resourceerrormessages.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|c:\\users\\guilh\\documents\\projects\\cashflow\\src\\cashflow.exception\\exceptionbase\\cashflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E7455378-E17B-47A7-97B7-C73EB7041C1A}|src\\CashFlow.Exception\\CashFlow.Exception.csproj|solutionrelative:src\\cashflow.exception\\exceptionbase\\cashflowexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{882CA8CC-495A-48BF-AFED-72C0D501BC0E}|src\\CashFlow.Api\\CashFlow.Api.csproj|c:\\users\\guilh\\documents\\projects\\cashflow\\src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{882CA8CC-495A-48BF-AFED-72C0D501BC0E}|src\\CashFlow.Api\\CashFlow.Api.csproj|solutionrelative:src\\cashflow.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,52 +23,26 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RegisterExpenseValidator.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "RelativeToolTip": "src\\CashFlow.Application\\UseCases\\Expenses\\Register\\RegisterExpenseValidator.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T13:13:42.033Z",
+              "Title": "ResourceErrorMessages.pt-BR.resx",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\ResourceErrorMessages.pt-BR.resx",
+              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionBase\\ResourceErrorMessages.pt-BR.resx",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\ResourceErrorMessages.pt-BR.resx",
+              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionBase\\ResourceErrorMessages.pt-BR.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-04-24T21:46:47.465Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ResourceErrorMessages.resx",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
               "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\CashFLow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
+              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\ResourceErrorMessages.resx",
               "RelativeToolTip": "src\\CashFlow.Exception\\ResourceErrorMessages.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
               "WhenOpened": "2024-04-23T23:55:24.836Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CashFlowException.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
-              "RelativeToolTip": "src\\CashFlow.Exception\\ExceptionBase\\CashFlowException.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T16:43:37.141Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\Program.cs",
-              "RelativeDocumentMoniker": "src\\CashFlow.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\guilh\\Documents\\Projects\\CashFlow\\src\\CashFlow.Api\\Program.cs",
-              "RelativeToolTip": "src\\CashFlow.Api\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAACFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:40:42.61Z"
             }
           ]
         }
