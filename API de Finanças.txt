@@ -12,4 +12,7 @@ Fluent Validation = Pacote Nuget para eralizar as validação das requisições 
 	- Botão direito na Applications Nuget Browse
 
 LINQ = Linguagem Integrada de consulta
-	- Um conjunto de recursos que estende as poderosas capacidades de consulta SQL para as linguagens C#. 
+	- Um conjunto de recursos que estende as poderosas capacidades de consulta SQL para as linguagens C#.
+
+
+ 
